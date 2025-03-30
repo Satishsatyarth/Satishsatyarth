@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning Backend Development.
 - 💞️ I’m looking to collaborate on Real World Project.
-- 📫 How to reach me 
+- 📫 satishsatyarth2002@gmail.com 
 - 😄 Pronouns: He/him
 
 <!---
