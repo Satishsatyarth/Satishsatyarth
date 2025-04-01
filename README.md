@@ -1,16 +1,18 @@
-  A passionate Frontend Developer from India.
+𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚.
   
-  .🌱 I’m currently learning Backend Development and DSA.
+.🌱 I’m currently learning 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐃𝐒𝐀.
   
-  .All of my projects are available at
-  
+. All of my projects are available at
+ https://github.com/Satishsatyarth/Satishsatyarth
   
 . 💞️ I’m looking to collaborate on Real World Project.
 
 . 📫 How to reach me
-  satishsatyarth2002@gmail.com
-  
+ satishsatyarth2002@gmail.com
 
-I specialize in frontend development with expertise in HTML, CSS, JavaScript, React, and Next.js, focusing on building efficient, user-friendly, and visually appealing interfaces. My experience includes working with Tailwind CSS, Bootstrap, and TypeScript, ensuring clean and maintainable code.
+. Know about my experiences
+ https://drive.google.com/file/d/1JLew1XGG8s8S9lbjvlIQYeZANjlZG9cX/view?usp=drive_link
 
-I have developed projects like EduCorner, an educational platform, and World Atlas, a React-based application providing country insights. With a strong foundation in Git and version control, I am committed to delivering high-quality, scalable solutions. I am driven by a passion for innovation and problem-solving in frontend development.
+. Connect with me :
+
+
