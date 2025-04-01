@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @Satishsatyarth
-- 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning Backend Development.
-- 💞️ I’m looking to collaborate on Real World Project.
-- 📫 satishsatyarth2002@gmail.com 
-- 😄 Pronouns: He/him
+  A passionate Frontend Developer from India.
+  
+  .🌱 I’m currently learning Backend Development and DSA.
+  
+  .All of my projects are available at
+  
+  
+. 💞️ I’m looking to collaborate on Real World Project.
+
+. 📫 How to reach me
+  satishsatyarth2002@gmail.com
+  
 
 I specialize in frontend development with expertise in HTML, CSS, JavaScript, React, and Next.js, focusing on building efficient, user-friendly, and visually appealing interfaces. My experience includes working with Tailwind CSS, Bootstrap, and TypeScript, ensuring clean and maintainable code.
 
